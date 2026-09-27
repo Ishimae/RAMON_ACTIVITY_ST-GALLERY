@@ -1,1 +1,0 @@
-console.log("S&T Gallery loaded successfully.");
